@@ -4,8 +4,10 @@ Sprint planning simulator tool for Scrum teams.
 ## Background
 I got the idea for developing this tool while working as an Agile Coach. I read an article about reducing risk and increasing predictability in Scrum using Monte Carlo simulations and it got me thinking. The end result is a tool designed to be used during sprint planning to assist Scrum teams with understanding the probability of completing their forecasted sprint backlog, based on their historical velocity.
 
-## Prerequisites
+## Dependencies
 Python 3.x
+Numpy Package
+MatPlotLib Package
 
 ## Execution
 From the command line run:  
